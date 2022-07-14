@@ -1,0 +1,20 @@
+.Logo{
+    height: 50px;
+    width: 100%;
+    display: flex;
+    border-bottom: 2px solid blue;
+    justify-content: space-around;
+    align-content: center;
+}
+.titleLogo{
+    display: inline-flex;
+    align-items: center;
+}
+.homeImage{
+    height: 50px;
+    margin-left: 15px;
+}
+.logoCartImage{
+    height: 50px;
+    margin-right: 15px;
+}

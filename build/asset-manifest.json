@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Online-shopping/static/css/main.92e1ff92.css",
+    "main.js": "/Online-shopping/static/js/main.124a1218.js",
+    "static/js/787.961d793f.chunk.js": "/Online-shopping/static/js/787.961d793f.chunk.js",
+    "static/media/shopping-cart-icon.jpg": "/Online-shopping/static/media/shopping-cart-icon.ee093502f10f9e1ec96c.jpg",
+    "static/media/logo.svg": "/Online-shopping/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Online-shopping/index.html",
+    "main.92e1ff92.css.map": "/Online-shopping/static/css/main.92e1ff92.css.map",
+    "main.124a1218.js.map": "/Online-shopping/static/js/main.124a1218.js.map",
+    "787.961d793f.chunk.js.map": "/Online-shopping/static/js/787.961d793f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92e1ff92.css",
+    "static/js/main.124a1218.js"
+  ]
+}

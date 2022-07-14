@@ -1,0 +1,17 @@
+.product{
+     /* border: 1px solid blue; */
+    display: flex;
+    /* justify-content: space-around; */
+    margin: 5px 0px;
+}
+
+.productView{
+    display: flex;
+    justify-content: space-between;
+    height: 40px;
+    border-radius: 13px;
+    background: #73AD21;
+    width: 100%;
+    align-items: center;
+    padding: 5px 25px;
+}
